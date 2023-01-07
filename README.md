@@ -8,6 +8,14 @@ for a rendered version of the constitution, head over to [releases](https://gith
 This constitution is written in LaTeX. Verify that your system has the appropriate
 TeX utilities to build.
 
-### Using `latexmk`:
+### Using latexmk:
 
-`latexmk -pdf constitution.tex`
+```
+latexmk -pdf constitution.tex
+```
+
+### Using pdflatex:
+
+```
+pdflatex constitution.tex
+```

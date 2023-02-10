@@ -1,7 +1,8 @@
-# *UMN Kernel Study Group* Constitution
+# UMN Kernel Object Constitution
 
-Track the *UMN Kernel Study Group* constitution development here. If you are looking
-for a rendered version of the constitution, head over to [releases](https://github.com/UMN-Kernel-Study-Group/constitution/releases).
+Track the UMN Kernel Object constitution development here. If you are looking
+for a rendered version of the constitution, head over to
+[releases](https://github.com/UMN-Kernel-Study-Group/constitution/releases).
 
 ## Building
 
